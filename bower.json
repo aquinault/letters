@@ -1,7 +1,7 @@
 {
-  "name": "assistance-extranet-play",
+  "name": "letters",
   "version": "0.0.1",
-  "main": "public",
+  "main": "client",
   "ignore": [
     ".jshintrc",
     "**/*.txt"
